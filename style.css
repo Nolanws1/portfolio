@@ -4,7 +4,7 @@ footer {
         background-color: #343A40;
         padding: 20px;
         margin-bottom: -30px;
-    }
+}
 .center {
         text-align:center;
 }
@@ -19,13 +19,4 @@ footer {
 
 .contactpic {
         height: 180px;
-}
-
-.card-row {
-        display:flex;
-        justify-content: space-between;
-        width: 90%;
-        margin: 0 auto;
-
-
 }

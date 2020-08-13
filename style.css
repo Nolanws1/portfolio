@@ -10,19 +10,19 @@ footer {
 }
 
 .text   {
-         font-size: 25px;
+        font-size: 25px;
 }
 
 .color {
-         background-color: #b8cde2;
+        background-color: #b8cde2;
 }
 
 .contactpic {
         height: 180px;
 }
 
-.carousel-inner > .item > img {
-        width:640px;
-        height:360px;
-      }
+
+.centercard {
+        margin: auto;
 }
+

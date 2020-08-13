@@ -21,4 +21,11 @@ footer {
         height: 180px;
 }
 
-.cardcenter {align-items: center;}
+.card-row {
+        display:flex;
+        justify-content: space-between;
+        width: 90%;
+        margin: 0 auto;
+
+
+}

@@ -1,0 +1,27 @@
+footer {
+        text-align: center;
+        color: #FFFFFF80;
+        background-color: #343A40;
+        padding: 20px;
+    }
+.center {
+        text-align:center;
+}
+
+.text   {
+         font-size: 25px;
+}
+
+.color {
+         background-color: #e9ecef;
+}
+
+.font  {
+        font-family: "Segoe UI""Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.contactpic {
+        height: 180px;
+}
+
+.cardcenter {align-items: center;}

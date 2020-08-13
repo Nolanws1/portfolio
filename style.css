@@ -3,6 +3,7 @@ footer {
         color: #FFFFFF80;
         background-color: #343A40;
         padding: 20px;
+        margin-bottom: -30px;
     }
 .center {
         text-align:center;
@@ -13,11 +14,7 @@ footer {
 }
 
 .color {
-         background-color: #e9ecef;
-}
-
-.font  {
-        font-family: "Segoe UI""Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+         background-color: #b8cde2;
 }
 
 .contactpic {

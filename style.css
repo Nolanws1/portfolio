@@ -10,7 +10,7 @@ footer {
 }
 
 .text   {
-        font-size: 25px;
+        font-size: 30px;
 }
 
 .color {
@@ -21,8 +21,14 @@ footer {
         height: 180px;
 }
 
+.selfpic {
+        margin-top: 15px;
+        width: 320px; 
+        height: 385px;
+}
 
 .centercard {
         margin: auto;
+        margin-top: 20px;
 }
 

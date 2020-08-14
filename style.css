@@ -5,6 +5,7 @@ footer {
         padding: 40px;
         height: 160px;
 }
+/*All Website text*/
 .center {
         text-align:center;
 }
@@ -16,7 +17,7 @@ footer {
 .color {
         background-color: #b8cde2;
 }
-
+/* Pictures and Contact Cards */
 .contactpic {
         height: 180px;
 }

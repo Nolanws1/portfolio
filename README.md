@@ -30,6 +30,6 @@ Nolan Sanchez / UCR Extension Program Coding Bootcamp Student
 ## Screen Shots
 
 <img src="ss_imgs/SS_1" alt="Screenshot of the ABOUT page">
-<img src="ss_imgs/SS_2" alt="Screenshot of the PORTFOLIO page top">
-<img src="ss_imgs/SS_3" alt="Screenshot of the PORTFOLIO page bottom">
-<img src="ss_imgs/SS_4" alt="Screenshot of the CONTACT page">
+<img src="./ss_imgs/SS_2" alt="Screenshot of the PORTFOLIO page top">
+<img src="./ss_imgs/SS_3" alt="Screenshot of the PORTFOLIO page bottom">
+<img src="./ss_imgs/SS_4" alt="Screenshot of the CONTACT page">

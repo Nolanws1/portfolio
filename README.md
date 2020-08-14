@@ -11,13 +11,17 @@ The site has been formated for iphone(6/7/8/9/10/X), iPad, and most web browsers
 
 ## Getting Started and Deployment
 
-This site can be accessed by clicking this link....
+This site can be accessed by clicking<a rel="stylesheet" href="https://nolanws1.github.io/portfolio/"> HERE<a>
 
-<link rel="stylesheet" href="https://nolanws1.github.io/portfolio/">
+...Or copy and paste this link...
+
+https://nolanws1.github.io/portfolio/
 
 ## Built With
-* Bootstrap Documentation <link rel="stylesheet" href="https://getbootstrap.com/">
-* Font Awesome Icons <link rel="stylesheet" href="https://fontawesome.com/">
+* HTML
+* CSS
+* <a rel="stylesheet" href="https://getbootstrap.com/">Bootstrap Documentation</a>
+* <a rel="stylesheet" href="https://fontawesome.com/">Font Awesome</a>
 
 ## Created by...
 

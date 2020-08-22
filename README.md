@@ -1,7 +1,7 @@
 # portfolio
 This Project consists of three different html pages:
 
-An ABOUT page where welcome the viewer, introduce myself, and explain the purpose of my deployed website.
+An ABOUT page where I welcome the viewer, introduce myself, and explain the purpose of my deployed website.
 
 A PORTFOLIO page where the viewer can use a Carousel (by Bootstrap) to see picture-screenshots of my other projects and the date that the page was last updated. This page also features a "Coming Soon" section where I will share the title and date of any upcoming projects.
 
@@ -11,11 +11,9 @@ The site has been formated for iphone(6/7/8/9/10/X), iPad, and most web browsers
 
 ## Getting Started and Deployment
 
-This site can be accessed by clicking <a rel="stylesheet" href="https://nolanws1.github.io/portfolio/">HERE<a>
+This site can be accessed by clicking the link below...
 
-...Or copy and paste this link...
-
-(https://nolanws1.github.io/portfolio/)
+https://nolanws1.github.io/portfolio/
 
 ## Built With
 * HTML
@@ -29,7 +27,7 @@ Nolan Sanchez / UCR Extension Program Coding Bootcamp Student
 
 ## Screen Shots
 
-<img src="ss_imgs/SS_1.png"    alt="Screenshot of the ABOUT page">
+<img src="ss_imgs/SS_1.png" alt="Screenshot of the ABOUT page">
 <img src="ss_imgs/SS_2.png" alt="Screenshot of the PORTFOLIO page top">
 <img src="ss_imgs/SS_3.png" alt="Screenshot of the PORTFOLIO page bottom">
 <img src="ss_imgs/SS_4.png" alt="Screenshot of the CONTACT page">

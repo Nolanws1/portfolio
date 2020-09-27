@@ -33,3 +33,15 @@ footer {
         margin-top: 20px;
 }
 
+.controls {
+        background-color: black;
+}
+
+.portfolio_card {
+        background-color:#343A40;
+        color: white;
+}
+
+hr {
+        background-color:#343A40;
+}

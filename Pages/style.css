@@ -1,0 +1,79 @@
+body {
+        background-color: rgb(208, 223, 238);
+}
+
+footer {
+        text-align: center;
+        color: #FFFFFF80;
+        background-color: #343A40;
+        padding: 40px;
+        height: 160px;
+}
+/*All Website text*/
+.center {
+        text-align:center;
+}
+
+.text   {
+        font-size: 35px;
+}
+
+.color {
+        background-color: #b8cde2;
+}
+/* Pictures and Contact Cards */
+.contactpic {
+        height: 180px;
+}
+
+.selfpic {
+        margin-top: 15px;
+        width: 320px; 
+        height: 385px;
+}
+
+.centercard {
+        margin: auto;
+        margin-top: 20px;
+}
+
+.controls {
+        background-color: black;
+}
+
+.portfolio_cards {
+        border: solid;
+}
+
+.gif {
+        height: 300px;
+}
+
+.portfolio_card {
+        background-color:#343A40;
+        color: white;
+}
+
+hr {
+        background-color:#343A40;
+}
+
+
+@media screen and (max-width: 315px) {
+        .selfpic {
+            margin-top: 15px;
+            width: 220px; 
+            height: 265px;
+        }
+      }
+
+
+
+@media screen and (max-width: 1197px) {
+        .selfpic {
+            margin-top: 15px;
+            width: 300px; 
+            height: 365px;
+        }
+      }
+    

@@ -1,14 +1,28 @@
 body {
-        background-color: rgb(208, 223, 238);
+        background: #00416A;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
 }
 
 footer {
         text-align: center;
         color: #FFFFFF80;
-        background-color: #343A40;
+        background-color: #133d5a;
+        border-top: 1px solid #517591;
         padding: 40px;
         height: 160px;
 }
+
+a {
+        font-size: x-large;
+}
+
+.card-text a {
+        background-color: #CBD3D9;
+        border: 2px solid #517591;
+        color: black;
+}
+
 /*All Website text*/
 .center {
         text-align:center;
@@ -19,7 +33,8 @@ footer {
 }
 
 .color {
-        background-color: #b8cde2;
+        background-color: #ccd3da;
+        border: 1px solid #517591;
 }
 
 .resume {
@@ -27,7 +42,18 @@ footer {
         height: 100vh;
 }
 
+.navstyle {
+        height: 100px;
+        background-color: #133d5a;
+        border-bottom: 1px solid #517591;
+}
+.card {
+        border: 2px solid #335066;
+}
 
+.contactstyle {
+        background-color: #c6d8e7; 
+}
 
 /* Pictures and Contact Cards */
 .contactpic {
@@ -38,6 +64,8 @@ footer {
         margin-top: 15px;
         width: 320px; 
         height: 385px;
+        border: 2px solid #517591;
+        box-shadow: 5px 10px 8px #888888;
 }
 
 .centercard {
@@ -49,21 +77,18 @@ footer {
         background-color: black;
 }
 
-.portfolio_cards {
-        border: solid;
+.portfolio_card {
+        background-color: #c6d8e7;
+        border-top: 3px solid #517591;
 }
 
 .gif {
         height: 300px;
 }
 
-.portfolio_card {
-        background-color:#343A40;
-        color: white;
-}
 
 hr {
-        background-color:#343A40;
+        background-color:#517591;
 }
 
 
